@@ -106,6 +106,23 @@ We welcome contributions and feedback! If you are interested in improving NIQ-Ge
 For inquiries, collaborations, or contributions, please reach out to any of the **team members**.
 
 ---
+To run the project locally, first, clone the repository and navigate to the project folder:
+run the following in terminal
+git clone https://github.com/Shafi65/HackHarvardRareDiseases.git
+cd HackHarvardRareDiseases
+
+for backend:
+cd backend
+pip install -r requirements.txt
+python app.py
+
+for frontend
+
+cd ../frontend
+npm install
+npm start
+
+Should be all set!
 
 **NIQ-Gene** | *Facilitating Gene-Disease Mechanism Research* 🚀
 
