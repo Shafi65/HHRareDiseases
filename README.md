@@ -111,17 +111,18 @@ run the following in terminal
 git clone https://github.com/Shafi65/HackHarvardRareDiseases.git
 cd HackHarvardRareDiseases
 
-for backend:
+for backend: {
 cd backend
 pip install -r requirements.txt
 python app.py
+}
 
 for frontend
-
+{
 cd ../frontend
 npm install
 npm start
-
+}
 Should be all set!
 
 **NIQ-Gene** | *Facilitating Gene-Disease Mechanism Research* 🚀
