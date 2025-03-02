@@ -101,10 +101,6 @@ We welcome contributions and feedback! If you are interested in improving NIQ-Ge
 
 ---
 
-## **License**
-This project is released under the **MIT License**. See [LICENSE](LICENSE) for details.
-
----
 
 ## **Contact**
 For inquiries, collaborations, or contributions, please reach out to any of the **team members**.
